@@ -1,0 +1,13 @@
+streamlit
+openai
+chromadb
+langchain
+langgraph
+langchain-chroma
+langchain-deepseek
+langchain-text-splitters
+sqlalchemy
+pyodbc
+pandas
+python-dotenv
+requests

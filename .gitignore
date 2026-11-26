@@ -1,2 +1,18 @@
+# Python
 venv/
+.venv/
 __pycache__/
+*.pyc
+*.pyo
+
+# Secrets / local config
+.env
+
+# macOS
+.DS_Store
+
+# Data / outputs (large local files, keep tracked dataset exception in mind)
+*.log
+
+# Local ChromaDB (rebuilt via scripts/ingest_sop_chroma.py)
+chroma_db/
